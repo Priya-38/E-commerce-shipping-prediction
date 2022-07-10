@@ -27,12 +27,14 @@ To build an End-to-End Web App using Data Science & Machine Learning for an Inte
 ## Results from the Project:
 * If the order will reach on time
 
-![image](https://user-images.githubusercontent.com/92631457/167086024-2d7ffc7f-e913-411c-801e-2934a5f830f1.png)
+
+![Screenshot (368)](https://user-images.githubusercontent.com/95964414/178164076-5cfc16a8-0ff0-4186-ad26-759c58390319.png)
 
 
 * If the order won’t reach on time
 
-![image](https://user-images.githubusercontent.com/92631457/167085474-3f00964a-7594-4cdc-8c86-31c1532e003b.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/95964414/178164134-c34947b4-c5d3-4f74-b50c-59403929fd5e.png)
+
 
 ## Directory Tree 
 ```
